@@ -25,5 +25,4 @@ A Python-based Quiz Application designed to make learning fun and interactive! T
 
 1. Clone this repository or download the source files:
    ```bash
-   git clone https://github.com/your-username/quiz-application.git
-   cd quiz-application
+   git clone https://github.com/Aditya-Kumar-19/Project-03-QuizApp.git
